@@ -12,7 +12,8 @@ import org.apache.kafka.common.serialization.StringSerializer;
 import java.util.Properties;
 
 /**
- * Hello world!
+ * Producer案例
+ *
  */
 public class MyProducer {
 

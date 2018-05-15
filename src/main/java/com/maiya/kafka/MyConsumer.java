@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * Created by lubinsu
  * Date: 2018/5/14 11:30
- * Desc:
+ * Desc: Consumer示例
  */
 public class MyConsumer {
 
