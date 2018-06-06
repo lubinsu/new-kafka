@@ -18,6 +18,7 @@ import java.util.Properties;
 public class MyProducer {
 
     public static void SendCommon() {
+
         Properties props = new Properties();
         props.put("bootstrap.servers", "192.168.0.181:9092");
         props.put("acks", "all");
